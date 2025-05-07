@@ -145,7 +145,7 @@ export default function Home() {
             ref={cardRef}
             className="w-full max-w-[500px] bg-black/30 backdrop-blur-md border-white/10 transition-all will-change-transform"
             style={{
-              transformStyle: 'preserve_3d',
+              transformStyle: 'preserve-3d',
             }}
           >
             <div
