@@ -211,14 +211,7 @@ export default function Home() {
             </div>
           </Card>
         </div>
-				      <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2">
-        <Button
-          onClick={() => window.open("https://www.rivofx.com/", "_blank")}
-          className="w-48 bg-white/10 hover:bg-white/20 text-white border border-white/20 z-100" // Added z-index
-        >
-          ❤️ Made by rivofx
-        </Button>
-      </div>
+
       </div>
 		
     </main>
